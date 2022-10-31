@@ -2,7 +2,7 @@
   "name": "poc-actions",
   "version": "1.0.0",
   "description": "PoC actions",
-  "main": "index.js",
+  "main": "/src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/DarioMC/PoC-actions.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DarioMC/PoC-actions/issues"
   },
