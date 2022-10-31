@@ -1,0 +1,22 @@
+{
+  "name": "poc-actions",
+  "version": "1.0.0",
+  "description": "PoC actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarioMC/PoC-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarioMC/PoC-actions/issues"
+  },
+  "homepage": "https://github.com/DarioMC/PoC-actions#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
